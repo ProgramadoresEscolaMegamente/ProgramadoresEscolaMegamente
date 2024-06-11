@@ -1,0 +1,4 @@
+- 👋 Oi, este é o Github dos Programadores da Escola Megamente!
+- 👀 Projetos todos privados, ou publicos.
+- 🌱 Novidades em Breve
+- 💞️ https://www.escolamegamente.com.br
